@@ -1,9 +1,9 @@
 if __name__ == '__main__':
-    n = int(raw_input())
+    n = int(input())
     l = []
 
     for x in range(n):
-        cmd = raw_input().split()
+        cmd = input().split()
 
         if cmd[0] == "insert":
             l.insert(int(cmd[1]),int(cmd[2]))
@@ -15,7 +15,7 @@ if __name__ == '__main__':
             l.sort()
         elif cmd[0] == "pop":
             l.pop()
-        elif cmd[0] == "reserve":
+        elif cmd[0] == "reverse":
             l.reverse()
         else:
             print(l)
