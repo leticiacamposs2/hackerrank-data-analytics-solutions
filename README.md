@@ -22,7 +22,7 @@ If  is even and in the inclusive range of <b>2</b> to <b>5</b>, print <b>Not Wei
 
 A single line containing a positive integer, <b>n</b>.
 
-Solution: [python-if-else](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/python-if-else.py)
+Solution: [python-if-else](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/solutions/python-if-else.py)
 </details>
 
 <details><summary><b>✔️ Say "Hello, World!" With Python</b></summary>
@@ -49,7 +49,7 @@ You do not need to read any input in this challenge.
 
 Print ```Hello, World!``` to stdout.
 
-Solution: [hello-world](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/say-hello-world-with-python.py)
+Solution: [hello-world](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/solutions/say-hello-world-with-python.py)
 </details>
 
 <details><summary><b>✔️ Arithmetic Operators</b></summary>
@@ -77,7 +77,7 @@ Print the following:
 - The first line contains the first integer, <b>a</b>.
 - The second line contains the second integer, <b>b</b>.
 
-Solution: [arithmetic-operators](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/arithmetic-operators.py)
+Solution: [arithmetic-operators](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/solutions/arithmetic-operators.py)
 </details>
 
 <details><summary><b>✔️ Python: Division</b></summary>
@@ -106,7 +106,7 @@ b = 5
 0.6
 ```
 
-Solution: [python-division](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/python-division.py)
+Solution: [python-division](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/solutions/python-division.py)
 </details>
 
 <details><summary><b>✔️ Loops</b></summary>
@@ -126,7 +126,7 @@ The list of non-negative integers that are less than <b>n = 3</b> is <b>[0,1,2]<
 4
 ```
 
-Solution: [loops](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/loops.py)
+Solution: [loops](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/solutions/loops.py)
 </details>
 
 <details><summary><b>✔️ Print Function</b></summary>
@@ -146,7 +146,7 @@ Note that "<b>...</b>" represents the consecutive values in between.
 
 Print the string <b>12345</b>.
 
-Solution: [print-function](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/print-function.py)
+Solution: [print-function](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/solutions/print-function.py)
 </details>
 
 <details><summary><b>✔️ Find the Runner-Up Score!</b></summary>
@@ -162,7 +162,7 @@ The first line contains <b>n</b>. The second line contains an array <b>A[]</b> o
 
 Given list is <b>[2,3,6,6,5]</b>. The maximum score is <b>6</b>, second maximum is <b>5</b>. Hence, we print <b>5</b> as the runner-up score.
 
-Solution: [find-the-runner-up-score](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/find-the-runner-up-score.py)
+Solution: [find-the-runner-up-score](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/solutions/find-the-runner-up-score.py)
 </details>
 
 <details><summary><b>✔️ Lists</b></summary>
@@ -195,7 +195,7 @@ print
 - <b>insert 3 1</b>: Insert <b>3</b> at index <b>1</b>, <b>arr = [1,3,2]</b>.
 - <b>print</b>: Print the array.
 
-Solution: [lists](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/lists.py)
+Solution: [lists](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/solutions/lists.py)
 </details>
 
 <details><summary><b>✔️ Tuples</b></summary>
@@ -205,7 +205,7 @@ Given an integer, <b>n</b>, and <b>n</b> space-separated integers as input, crea
 
 <b>Note:</b> [hash()](https://docs.python.org/3/library/functions.html) is one of the functions in the <b>__builtins__</b> module, so it need not be imported.
 
-Solution: [tuples](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/tuples.py)
+Solution: [tuples](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/solutions/tuples.py)
 </details>
 
 <details><summary><b>✔️ Set .discard(), .remove() & .pop()</b></summary>
@@ -281,7 +281,9 @@ You have a non-empty set <b>s</b>, and you have to execute <b>N</b> commands giv
 
 The commands will be pop, remove and discard.
 
-Solution: [set-discard-remove-e-pop](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/py-set-discard-remove-pop.py)
+Solution: [set-discard-remove-e-pop](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/solutions/py-set-discard-remove-pop.py)
 </details>
+
+<br>
 
 > [Challenges to solve](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/tree/challenges-to-solve)
