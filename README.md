@@ -284,44 +284,4 @@ The commands will be pop, remove and discard.
 Solution: [set-discard-remove-e-pop](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/blob/main/py-set-discard-remove-pop.py)
 </details>
 
-<details><summary><b>❌ The Minion Game</b></summary>
-</details>
-
-<details><summary><b>❌ Time Delta</b></summary>
-</details>
-
-<details><summary><b>❌ Find Angle MBC</b></summary>
-</details>
-
-<details><summary><b>❌ Merge the Tools!</b></summary>
-</details>
-
-<details><summary><b>❌ Athlete Sort</b></summary>
-</details>
-
-<details><summary><b>❌ Default Arguments</b></summary>
-</details>
-
-<details><summary><b>❌ Maximize It!</b></summary>
-</details>
-
-<details><summary><b>❌ Validating Postal Codes</b></summary>
-</details>
-
-<details><summary><b>❌ Matrix Script</b></summary>
-</details>
-
-<details><summary><b>❌ Triangle Quest 2</b></summary>
-</details>
-
-<details><summary><b>❌ Decorators 2 - Name Directory</b></summary>
-</details>
-
-<details><summary><b>❌ Word Order</b></summary>
-</details>
-
-<details><summary><b>❌ Regex Substitution</b></summary>
-</details>
-
-<details><summary><b>❌ Reduce Function</b></summary>
-</details>
+> [Challenges to solve](https://github.com/leticiacamposs2/hackerrank-data-analytics-solutions/tree/challenges-to-solve)
