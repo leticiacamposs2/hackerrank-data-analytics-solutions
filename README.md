@@ -79,6 +79,7 @@ Similarly, in the second query, time difference is 5 hours and 30 minutes for ti
 </details>
 
 <details><summary><b>❌ Find Angle MBC</b></summary>
+
 ![](https://s3.amazonaws.com/hr-challenge-images/9668/1440151155-10b2b748ee-rsz_1438840048-2cf71ed69d-findangle.png)
 
 <b>ABC</b> is a right triangle, <b>90°</b> at <b>B</b>.
